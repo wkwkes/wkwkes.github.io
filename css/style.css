@@ -1,0 +1,22 @@
+
+html {
+    background-color: rgba(176, 176, 176, 0.315);
+}
+
+.icons {
+    margin: auto;
+    margin-top: 25%;
+    width: 95%;
+    height: auto;
+    text-align: center;
+    font-size: 125px;
+    display: table;
+}
+
+.icon {
+    margin: 8px;
+    color: rgb(76, 169, 203);
+}
+.icon:hover {
+    color: rgb(243,128,120);
+}
